@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/AnnaWhitebox.unity
+- path: Assets/Scenes/AlexaScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
